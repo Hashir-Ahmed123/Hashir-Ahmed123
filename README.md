@@ -12,8 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hashir ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashir ahmed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hashir ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hashir ahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hashir-ahmed-5518492a3/"                                          
+target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashir ahmed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23344075/hashir-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hashir ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/hashir.ahmed2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashir.ahmed2010" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@hashir-ahmed394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hashir-ahmed394" height="30" width="40" /></a>
 <a href="https://discord.gg/hashir_ahmed123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hashir_ahmed123" height="30" width="40" /></a>
