@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hashir Ahmed</h1>
 <h3 align="center">I'm a Fullstack Developer | Graphic Designer | Discord Bot Maker From Pakistan</h3>
 
-- 🌱 I’m currently learning **AI and Machine learning**
+- 🌱 I’m currently learning **c++**                                                                                                                    **
 
 - 👨‍💻 All of my projects are available at [https://hashir-ahmed.netlify.app/](https://hashir-ahmed.netlify.app/)
 
