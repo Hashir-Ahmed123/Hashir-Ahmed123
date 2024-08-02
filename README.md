@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hashir Ahmed</h1>
 <h3 align="center">I'm a Fullstack Developer | Graphic Designer | AI/ML Maker</h3>                                                                     
 - 🌱 I’m currently learning **c++**                                                                                                                          
-- 👨‍💻 All of my projects are available at [https://hashir-ahmed.netlify.app/](https://hashir-ahmed.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://hashir-ahmed.netlify.app/]
 
 - 💬 Ask me about **python,react,html,css and javascript**
 
