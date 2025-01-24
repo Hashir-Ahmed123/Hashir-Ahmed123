@@ -1,10 +1,10 @@
 ![MasterHead](https://camo.githubusercontent.com/59fc60c71a5bfaf918be50fa4029810272f7da7aff16df440d0f971bdbb5f6ce/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Hashir Ahmed</h1>
 <h3 align="center">I'm a Fullstack Developer | Graphic Designer | AI/ML Maker</h3>                                                                     
-- 🌱 I’m currently learning **c++**                                                                                                                          
+- 🌱 I’m currently learning **Arduino**                                                                                                                          
 - 👨‍💻 All of my projects are available at [https://hashir-ahmed.netlify.app/]
 
-- 💬 Ask me about **python,react,html,css and javascript**
+- 💬 Ask me about **AI/ML, Python, Deeplearning, frontend, backend**
 
 - 📫 How to reach me **hashirahmed13451@gmail.com**
 
